@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "My Diet Log - ダイエット管理",
+  "short_name": "My Diet Log",
+  "description": "iPhone内だけに食事・体重・運動を記録",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#102a2c",
+  "theme_color": "#102a2c",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
