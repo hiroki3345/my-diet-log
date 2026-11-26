@@ -1,6 +1,6 @@
 
 'use strict';
-const CACHE = 'my-diet-log-shell-v208';
+const CACHE = 'my-diet-log-shell-v209';
 const ASSETS = ['./index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil((async () => {
